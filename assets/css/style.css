@@ -189,19 +189,19 @@ header nav ul li a:hover {
  }
 
 .project-2 a {  
-    background-image: url(/assets/images/horiseon.jpg);
+    background-image: url(./assets/images/horiseon.jpg);
 }
 
 .project-3 a {
-    background-image: url(/assets/images/schedule.jpg);
+    background-image: url(./assets/images/schedule.jpg);
 }
 
 .project-4 a {
-    background-image: url(/assets/images/passwordGen.png);
+    background-image: url(./assets/images/passwordGen.png);
 }
 
 .project-5 a {
-    background-image: url(/assets/images/correct.png);
+    background-image: url(./assets/images/correct.png);
 }
 
 
