@@ -67,7 +67,7 @@ header nav ul li a:hover {
 
 /* HEADER / NAVBAR STYLES END */
 
-/* HERO */
+/* HERO/JUMBOTRON */
 
 .hero {
      height: 400px; 
@@ -116,6 +116,7 @@ header nav ul li a:hover {
     justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;
+    font-size: 1.5rem;
 }
 
 /* Work Styles */
@@ -311,7 +312,7 @@ footer h2 {
     }
 
     .grid, .project-1  {
-        margin: 20px 0;
+        margin-left:20px ;
         justify-content: center;
         grid-template-columns: 1fr 1fr;
     }
