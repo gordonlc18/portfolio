@@ -235,6 +235,24 @@ header nav ul li a:hover {
 .contact-info a:hover {
     color: var(--primaryText);
 }
+
+footer {
+    background: var(--primaryColor);
+    width: 100%;
+    padding: 40px 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color: #ffff;
+}
+
+footer h2 {
+    font-size: 20px;
+    margin: 0;
+}
+
+
 /* MEDIA QUERIES */
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen AND (max-width: 980px) {
